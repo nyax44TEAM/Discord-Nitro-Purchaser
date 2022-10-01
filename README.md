@@ -12,7 +12,7 @@ A program for mass buy nitros in tokens
 ------------------------
 
 # ⚙️ Instructions ⚙️
-1) [Download](https://github.com/nyax44/discord-nitro-purchaser/archive/refs/heads/main.zip)
+1) [Download](https://github.com/nyax44/Discord-Nitro-Purchaser/archive/refs/heads/main.zip)
 2) Write tokens to the ``tokens.txt`` file (nyax44 folder)
 3) Give me a star on the project 😉
 4) Open start.bat
