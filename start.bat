@@ -1,0 +1,2 @@
+python buy.py
+pause
